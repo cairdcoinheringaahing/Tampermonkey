@@ -30,9 +30,10 @@
         "O_O": "https://i.stack.imgur.com/qFaUr.png",
         strike: '`---strikethrough---` ---strikethrough---',
         rickroll: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-        userscripts: 'https://github.com/RedwolfPrograms/userscripts https://github.com/TehFlaminTaco/TacosUserscripts',
+        userscripts: 'https://github.com/RedwolfPrograms/userscripts https://github.com/TehFlaminTaco/TacosUserscripts https://github.com/cairdcoinheringaahing/Tampermonkey',
         rscripts: 'https://github.com/RedwolfPrograms/userscripts',
         tscripts: 'https://github.com/TehFlaminTaco/TacosUserscripts',
+        cscripts: 'https://github.com/cairdcoinheringaahing/Tampermonkey'
         acronyms: 'https://codegolf.meta.stackexchange.com/questions/12537/what-are-our-specific-abbreviations-and-terms',
         sandbox: 'https://codegolf.meta.stackexchange.com/questions/2140/sandbox-for-proposed-challenges',
         iodefaults: 'https://codegolf.meta.stackexchange.com/questions/2447/default-for-code-golf-input-output-methods',
